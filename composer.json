@@ -1,0 +1,1 @@
+{\n    "require": {\n        "laravel/framework": "^8.0",\n        "fideloper/proxy": "^4.4",\n        "laravel/tinker": "^2.0",\n        "laravel/ui": "^3.3"\n    },\n    "require-dev": {\n        "phpunit/phpunit": "^9.0"\n    }\n}
